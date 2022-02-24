@@ -26,5 +26,5 @@ module.exports = {
         }
     },
 
-    mode: 'development' //uploaded
+    mode: 'development' //updated
 }
