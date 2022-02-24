@@ -1,4 +1,4 @@
-const path = require("path")
+const path = require('path')
 
 module.exports = {
     entry: {
@@ -21,10 +21,10 @@ module.exports = {
 
     devServer: {
         static: {
-            directory: path.join(__dirname, "dist"),
+            directory: path.join(__dirname, 'dist'),
             watch: true,
         }
     },
 
-    mode: "development"
+    mode: 'development'
 }
