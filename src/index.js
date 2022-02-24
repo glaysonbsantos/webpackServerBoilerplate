@@ -7,4 +7,5 @@ function formatDate() {
     return formatDate; 
 }
 
-formatDate()
+alert('Data e hora serão exibidas como teste!')
+alert(formatDate())
